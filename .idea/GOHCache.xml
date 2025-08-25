@@ -21,6 +21,7 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/unilt.go" />
+              <option value="file://D:/go/GOPATH/pkg/mod/github.com/zhangcook/goods_service@v0.0.0-20250825020411-877d67bc92ab/unilt.go" />
             </set>
           </value>
         </entry>
@@ -66,7 +67,7 @@
         <entry key="file://$PROJECT_DIR$/../aaa/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1756088078792" />
+              <option name="lastModified" value="1756088953712" />
             </ScannedPath>
           </value>
         </entry>
@@ -142,10 +143,22 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://D:/go/GOPATH/pkg/mod/github.com/zhangcook/goods_service@v0.0.0-20250825020411-877d67bc92ab/unilt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756088457444" />
+              <option name="schema">
+                <list>
+                  <option value="GrpcClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/cmd/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1756087898521" />
+              <option name="lastModified" value="1756088474018" />
             </ScannedPath>
           </value>
         </entry>

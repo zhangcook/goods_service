@@ -1,4 +1,4 @@
-package main
+package goods_service
 
 import (
 	"github.com/zhangcook/goods_service/grpc"

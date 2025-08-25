@@ -63,6 +63,13 @@
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../aaa/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756088078792" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/config.go">
           <value>
             <ScannedPath>
@@ -126,12 +133,75 @@
         <entry key="file://$PROJECT_DIR$/unilt.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1756087221269" />
+              <option name="lastModified" value="1756088247451" />
               <option name="schema">
                 <list>
                   <option value="GrpcClient" />
                 </list>
               </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/cmd/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087898521" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577197" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/config/consts.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577066" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/config/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577178" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/init/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577139" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/init/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577227" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/init/init.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577210" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/init/nacos.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577238" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/online-retailers/goods-srv/basic/init/redis.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087577121" />
             </ScannedPath>
           </value>
         </entry>

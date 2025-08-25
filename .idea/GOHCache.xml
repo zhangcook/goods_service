@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="CreateGoodsReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateGoodsResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GrpcClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/unilt.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/grpc/rpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedGoodsServerServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/proto/goods_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="goodsServerClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/proto/goods_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/grpc/rpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="x">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087193087" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/grpc/api.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756086127558" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/grpc/rpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756085939194" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087221260" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/proto/goods.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756085623282" />
+              <option name="schema">
+                <list>
+                  <option value="CreateGoodsReq" />
+                  <option value="CreateGoodsResp" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/proto/goods_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756085623306" />
+              <option name="schema">
+                <list>
+                  <option value="goodsServerClient" />
+                  <option value="UnimplementedGoodsServerServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/unilt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1756087221269" />
+              <option name="schema">
+                <list>
+                  <option value="GrpcClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="create_goods_req" value="CreateGoodsReq" />
+        <entry key="create_goods_resp" value="CreateGoodsResp" />
+        <entry key="goods_server_client" value="goodsServerClient" />
+        <entry key="grpc_client" value="GrpcClient" />
+        <entry key="server" value="Server" />
+        <entry key="unimplemented_goods_server_server" value="UnimplementedGoodsServerServer" />
+        <entry key="x" value="x" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1756085518873" />
+  </component>
+</project>

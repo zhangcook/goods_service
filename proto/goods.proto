@@ -1,0 +1,14 @@
+syntax = "proto3";
+package Proto3;
+option go_package = "/";
+
+service GoodsServer {
+  rpc CreateGoods (CreateGoodsReq) returns (CreateGoodsResp);
+}
+
+message CreateGoodsReq{
+
+}
+message CreateGoodsResp{
+
+}
